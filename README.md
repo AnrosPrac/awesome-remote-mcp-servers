@@ -866,7 +866,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
-- [Arsaze](https://arsaze.com) `https://api.arsaze.com/mcp`
+- [Arsaze](https://www.arsaze.com) `https://api.arsaze.com/mcp`
   [![Arsaze MCP connector](https://glama.ai/mcp/connectors/com.arsaze.api/arsaze/badges/score.svg)](https://glama.ai/mcp/connectors/com.arsaze.api/arsaze)
   🔐 - The AI-native video editing OS: cut, color grade, generate, and export a real timeline over MCP tool calls.
 - [CLIPCLIPER](https://clipcliper.com/mcp) `https://clipcliper.com/mcp`
